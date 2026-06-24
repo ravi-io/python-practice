@@ -10,6 +10,8 @@ Made with ❤️ by Ravi Karmakar
 
 ## ✨ Overview
 
+This repository is a personal Python practice workspace focused on learning core programming concepts through simple, hands-on exercises. It includes beginner-level scripts, data structure examples, and practice problems that help build confidence in Python.
+
 This repository is organized into practical Python topics such as:
 
 - Basic syntax and output
